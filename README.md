@@ -1,29 +1,30 @@
-# Keke Fieye – HTML Recipe Assignment
+# HTML Recipe Assignment – Keke Fieye (Ijaw Plantain Pottage)
 
-A simple, standards‑compliant recipe page built for an AltSchool assignment. It demonstrates basic HTML structure, semantics, lists, images, and text formatting using an authentic Ijaw recipe (Keke Fieye).
+This is my submission for the AltSchool HTML recipe page assignment. I built a simple recipe site for Keke Fieye (an authentic Ijaw dish made with unripe plantains).
 
-## Live Demo
-- Public page: https://ikemike01.github.io/html-recipe/recipe.html
+Live page: https://ikemike01.github.io/html-recipe/recipe.html
 
-## What this showcases
-- Valid HTML5 document (doctype, head/meta/title, body)
-- Semantic structure: header, main, article, section, footer, figure
-- Headings hierarchy (h1, h2)
-- Text formatting: strong, em, u, mark
-- Lists: unordered (ingredients) and ordered (instructions)
-- Images with src, alt, and width attributes
-- Descriptive comments and clean indentation
+## What I implemented (matches the rubric)
+- Document structure: HTML5 doctype, html/head/body, title, meta (charset + viewport)
+- Content sections:
+	- Header with h1 and short description
+	- "Recipe Information" (h2) with prep time, cook time, servings, difficulty
+	- "Ingredients" (h2) using an unordered list (11 items)
+	- "Instructions" (h2) using an ordered list (6 clear steps)
+	- "Tips & Notes" (h2)
+- Images: two images (finished dish + process) with src, alt, and width; files live in `images/`
+- Text formatting: used strong, em, u, and mark where appropriate
+- Semantic HTML: header, main, article, section, figure, footer
+- Comments + indentation: I added comments above major sections and kept the markup indented for readability
 
-## Files
-- `recipe.html` – the recipe page
-- `images/keke-fie.jpeg` – finished dish photo
-- `images/kekkfie-2.jpeg` – cooking process photo
+## How to view
+- Online (recommended): open the live link above
+- Locally: open `recipe.html` in a browser. Make sure the `images/` folder sits next to `recipe.html` so the pictures load.
 
-## Submission notes
-If you need to upload files:
-- Submit `recipe.html`
-- Submit `images/keke-fie.jpeg` and `images/kekkfie-2.jpeg`
-- Keep the `images/` folder next to `recipe.html` so images resolve correctly
+## Files I’m submitting
+- `recipe.html`
+- `images/keke-fie.jpeg`
+- `images/kekkfie-2.jpeg`
 
-Optional: Rename `recipe.html` to `index.html` if you want the demo at `https://ikemike01.github.io/html-recipe/`.
+Notes: The recipe uses unripe plantains (authentic method). Beans are optional if you want more substance. Footer text is kept simple.
 
