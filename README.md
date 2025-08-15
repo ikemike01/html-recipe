@@ -4,7 +4,7 @@ This is my submission for the AltSchool HTML recipe page assignment. I built a s
 
 Live page: https://ikemike01.github.io/html-recipe/recipe.html
 
-## What I implemented (matches the rubric)
+## What I built
 - Document structure: HTML5 doctype, html/head/body, title, meta (charset + viewport)
 - Content sections:
 	- Header with h1 and short description
